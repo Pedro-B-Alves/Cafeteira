@@ -12,14 +12,14 @@ namespace Cafeteira
             bool opcao2 = true;
             do
             {
-                Console.WriteLine($"Quanto de açúcar você quer no café?");
+                Console.WriteLine("Quanto de açúcar você quer no café?");
                 Console.WriteLine("Se você quiser 10 gramas não precisa informar um valor");
                 string stringQuantidadeAcucar = Console.ReadLine();
                 cafe.FazerCafe(stringQuantidadeAcucar);
 
                 do
                 {
-                    Console.WriteLine($"Deseja fazer mais um café? s/n");
+                    Console.WriteLine("Deseja fazer mais um café? s/n");
                     string resposta1 = Console.ReadLine();
                     if (resposta1 == "n")
                     {
