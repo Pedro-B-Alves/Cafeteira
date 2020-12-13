@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\bin\Debug\netcoreapp3.1\Cafeteira.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\bin\Debug\netcoreapp3.1\Cafeteira.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\bin\Debug\netcoreapp3.1\Cafeteira.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\bin\Debug\netcoreapp3.1\Cafeteira.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\bin\Debug\netcoreapp3.1\Cafeteira.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\bin\Debug\netcoreapp3.1\Cafeteira.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\obj\Debug\netcoreapp3.1\Cafeteira.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\obj\Debug\netcoreapp3.1\Cafeteira.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\obj\Debug\netcoreapp3.1\Cafeteira.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\obj\Debug\netcoreapp3.1\Cafeteira.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\obj\Debug\netcoreapp3.1\Cafeteira.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\obj\Debug\netcoreapp3.1\Cafeteira.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Cafeteira\obj\Debug\netcoreapp3.1\Cafeteira.genruntimeconfig.cache
